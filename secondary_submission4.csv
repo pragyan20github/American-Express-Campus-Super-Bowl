@@ -1,0 +1,11 @@
+feat_id,feat_name,feat_description,model_feat_imp_train,feat_rank_train
+1,batting_average,Fraction of runs scored and balls_faced.,6.62,4
+2,boundary_percent,Fraction of sum of  Fours and sixes scored and balls_faced,11.54,2
+3,extras,Sum of wides and no balls,6.65,3
+4,strike_rate,It is the average number of runs a batsman scores per 100 balls faced.,3.9,5
+5,team_count_50runs_last15,This metric represents the number of times a team has scored at least 50 runs in an innings over the last 15 matches.,14.56,1
+6,ground_avg_runs_last15,This metric indicates the average number of runs scored in matches played at a particular ground over the last 15 matches.,1.49,9
+7,economy,A bowler's economy rate is the average number of runs conceded per over bowled.,0.76,10
+8,boundary_rate,Fraction of sum of  Fours and sixes scored and balls_bowled,2.19,8
+9,overs_perform,Fraction of runs scored and overs_faced_first,3.13,6
+10,dot_ball_percent,Fraction of number of dots and balls_bowled,2.54,7
